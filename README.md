@@ -16,12 +16,12 @@ The app is organized into three sections:
    - Total fatalities
    - Total people involved
    - Fatal crashes by month
-3. People Involved
+2. People Involved
    - Age distribution
    - People by sex
    - Person type (drivers, passengers, pedestrians, etc.)
    - Reported restraint use
-4. Crash Circumstances
+3. Crash Circumstances
   - Fatal crashes by state
   - Rural vs urban locations
   - Day of the week
